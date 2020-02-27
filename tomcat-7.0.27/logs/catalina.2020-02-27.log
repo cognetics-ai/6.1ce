@@ -1,0 +1,74 @@
+Feb 27, 2020 1:03:23 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Feb 27, 2020 1:03:23 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Feb 27, 2020 1:03:23 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Feb 27, 2020 1:03:23 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 504 ms
+Feb 27, 2020 1:03:23 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Feb 27, 2020 1:03:23 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.27
+Feb 27, 2020 1:03:23 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /Users/sdangi/eclipse-liferay-workspace/bundles/tomcat-7.0.27/conf/Catalina/localhost/ROOT.xml
+Feb 27, 2020 1:03:44 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Feb 27, 2020 1:03:44 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Feb 27, 2020 1:03:44 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 21029 ms
+Feb 27, 2020 1:04:27 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Feb 27, 2020 1:04:27 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Feb 27, 2020 1:04:27 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Feb 27, 2020 1:04:28 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Feb 27, 2020 1:04:28 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [HSQLDB Timer @2aa96fd2] but has failed to stop it. This is very likely to create a memory leak.
+Feb 27, 2020 1:04:28 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Feb 27, 2020 1:04:28 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Feb 27, 2020 1:04:28 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Feb 27, 2020 1:04:28 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Feb 27, 2020 1:04:32 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Feb 27, 2020 1:04:32 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Feb 27, 2020 1:04:32 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Feb 27, 2020 1:04:32 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 401 ms
+Feb 27, 2020 1:04:32 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Feb 27, 2020 1:04:32 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.27
+Feb 27, 2020 1:04:32 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /Users/sdangi/eclipse-liferay-workspace/bundles/tomcat-7.0.27/conf/Catalina/localhost/ROOT.xml
+Feb 27, 2020 1:04:51 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Feb 27, 2020 1:04:51 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Feb 27, 2020 1:04:51 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 18759 ms
+Feb 27, 2020 2:12:08 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Feb 27, 2020 2:12:08 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Feb 27, 2020 2:12:08 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Feb 27, 2020 2:12:09 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Feb 27, 2020 2:12:09 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Feb 27, 2020 2:12:09 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Feb 27, 2020 2:12:09 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Feb 27, 2020 2:12:09 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
